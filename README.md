@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=*LinkedIn"/>
   </a>
   <a href="nastasiasimon9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lightgrey?style=for-thebadge&logo=mail&logoColor=white" alt=*Email"/>
+    <img src="https://img.shields.io/badge/Email-lightgrey?style=for-thebadge&logo=gmail&logoColor=white" alt=*Email"/>
   </a>
   <a href="https://t.me/simonastasia">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-thebadge&logo=telegram&logoColor=white" alt=*Telegram"/>
