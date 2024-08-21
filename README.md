@@ -17,12 +17,12 @@
 
 <div id=*socials* aling="center">
   <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D1%81%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-0766762bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI7reg7u2SZKyYvO%2FPOnevg%3D%3D">
-    <img scr="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=*LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=*LinkedIn"/>
   </a>
   <a href="nastasiasimon9@gmail.com">
-    <img scr="https://img.shields.io/badge/nastasiasimon9%40gmail.com" alt=*Email"/>
+    <img src="https://img.shields.io/badge/nastasiasimon9%40gmail.com" alt=*Email"/>
   </a>
   <a href="https://t.me/simonastasia">
-    <img scr="https://img.shields.io/badge/%20https%3A%2F%2Ft.me%2Fsimonastasia" alt=*Telegram"/>
+    <img src="https://img.shields.io/badge/%20https%3A%2F%2Ft.me%2Fsimonastasia" alt=*Telegram"/>
   </a>
 </div>
