@@ -16,7 +16,7 @@
 **Мои контакты**
 
 <div id=*socials* aling="center">
-  <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D1%81%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-0766762bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI7reg7u2SZKyYvO%2FPOnevg%3D%3D">
+  <a href="https://www.linkedin.com/in/nastasiasimon?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsJnVvoX8TtKkrtgfKqd%2FWw%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=*LinkedIn"/>
   </a>
   <a href="mailto:nastasiasimon9@gmail.com">
