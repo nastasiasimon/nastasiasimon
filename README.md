@@ -23,6 +23,6 @@
     <img src="https://img.shields.io/badge/nastasiasimon9%40gmail.com" alt=*Email"/>
   </a>
   <a href="https://t.me/simonastasia">
-    <img src="https://img.shields.io/badge/%20https%3A%2F%2Ft.me%2Fsimonastasia" alt=*Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-thebadge&logo=telegram&logoColor=white" alt=*Telegram"/>
   </a>
 </div>
