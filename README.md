@@ -5,7 +5,7 @@
 
 Я специалист в области аналитики данных.
 Знания и первый опыт получила на Яндекс.Практикум.
-Мое портфолио с учебными проектами вы найдете [по ссылке] (https://github.com/nastasiasimon/Yandex_practicum)
+Мое портфолио с учебными проектами вы найдете [по ссылке](https://github.com/nastasiasimon/Yandex_practicum)
 
 **Мой стек инструментов и навыков**
 - Python(pandas, seaborn, matplotlib, plotly, numpy), SQL (PostgreSQL), Tableau, Jupyter Notebooks.
