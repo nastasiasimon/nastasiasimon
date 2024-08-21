@@ -1,16 +1,28 @@
-## Hi there 👋
+<div id="header" aling="center">
+  <h1>Привет! 👋 Меня зовут Анастасия Симонова</h1>
+  <h3>Я специалист в области аналитики данных.</h3>
+</div>
 
-<!--
-**nastasiasimon/nastasiasimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я специалист в области аналитики данных.
+Знания и первый опыт получила на Яндекс.Практикум.
+Мое портфолио с учебными проектами вы найдете [по ссылке] (https://github.com/nastasiasimon/Yandex_practicum)
 
-Here are some ideas to get you started:
+**Мой стек инструментов и навыков**
+- Python(pandas, seaborn, matplotlib, plotly, numpy), SQL (PostgreSQL), Tableau, Jupyter Notebooks.
+- Предобработка и обработка данных, исследовательский анализ данных, визуализация данных, создание презентаций, построение дашбордов, продуктовые метрики, когортный анализ, юнит-экономика
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Буду рада предложениям о работе!
+
+**Мои контакты**
+
+<div id=*socials* aling="center">
+  <a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D1%81%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0-0766762bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BI7reg7u2SZKyYvO%2FPOnevg%3D%3D">
+    <img scr="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=*LinkedIn"/>
+  </a>
+  <a href="nastasiasimon9@gmail.com">
+    <img scr="https://img.shields.io/badge/nastasiasimon9%40gmail.com" alt=*Email"/>
+  </a>
+  <a href="https://t.me/simonastasia">
+    <img scr="https://img.shields.io/badge/%20https%3A%2F%2Ft.me%2Fsimonastasia" alt=*Telegram"/>
+  </a>
+</div>
